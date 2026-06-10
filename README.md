@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Daftar Isi
+## Daftar Isi
 
 1. [Gambaran Umum](#gambaran-umum)
 2. [Arsitektur Sistem](#arsitektur-sistem)
